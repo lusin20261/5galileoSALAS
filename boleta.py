@@ -1,0 +1,13 @@
+print("========bienvenido a la Ishop de perú========")
+vendedor=input("nombre del vendedor")
+cliente=input("nombre del cliente")
+producto_1=input("ingresa el producto")
+precio_1=input("ingresa el precio")
+precio_1=int("precio_1")
+cantidad_1=("ingresa la cantidad")
+cantidad_1=int("cantidad_1")
+print("segundo producto")
+precio_2=("ingresa el precio")
+precio_2=int("precio_2")
+cantidad_2=
+cantidad_2=int("precio_2")
